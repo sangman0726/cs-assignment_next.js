@@ -16,7 +16,10 @@ export default function Home() {
         </h1>
 
         <p className={styles.description}>
-          Please click <code>SANGMAN PARK!</code>. Then, I will introduce who am I.
+          Please click <code>SANGMAN PARK</code>. Then, I will introduce who am I.
+        </p>
+        <p>
+          You can learn about next.js by pressing the buttons below.
         </p>
 
         <div className={styles.grid}>
