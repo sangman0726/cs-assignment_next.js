@@ -18,6 +18,11 @@ export default function Home() {
         <p className={styles.description}>
           Please click <code>SANGMAN PARK</code>. Then, I will introduce who am I.
         </p>
+        
+        <Link href="/index.html">
+          <span>You can see bouncing balls by clicking this button!</span>
+        </Link>
+
         <p>
           You can learn about next.js by pressing the buttons below.
         </p>
